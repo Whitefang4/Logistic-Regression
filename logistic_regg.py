@@ -32,9 +32,6 @@ import pdb
 import numpy as np
 import pandas as pd
 
-## Visualisation
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 ## Preprocessing
 from sklearn.impute import SimpleImputer

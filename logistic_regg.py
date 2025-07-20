@@ -22,7 +22,7 @@ from sklearn.model_selection import KFold , GridSearchCV, train_test_split, Stra
 from sklearn.metrics import confusion_matrix as cm, accuracy_score as ac, classification_report as report,\
 roc_curve, roc_auc_score , recall_score , precision_score, f1_score
 
-! pip install streamlit -q
+
 
 # Commented out IPython magic to ensure Python compatibility.
 ## For the sake of debugging
@@ -326,5 +326,3 @@ plt.show()
 
 
 """Deployment"""
-
-!wget -q -O - ipv4.icanhazip.com

@@ -13,7 +13,7 @@ Original file is located at
 import pandas as pd
 import numpy as np
 
-import matplotlib.pyplot as plt
+
 import scipy.stats as stat
 import statsmodels.api as smf
 from sklearn.linear_model import LogisticRegression
